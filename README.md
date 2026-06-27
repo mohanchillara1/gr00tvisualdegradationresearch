@@ -1,6 +1,6 @@
-# gr00tvisualdegradationresearch
+# gr00trobustnessresearch
 
-GR00T N1.7 Visual Degradation Research
+GR00T N1.7 Robustness over Visual Degradation Research
 
 Training Data Visual Degradation and Object Transfer in GR00T N1.7: A Systematic Study
 
