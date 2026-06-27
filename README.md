@@ -6,7 +6,7 @@ Training Data Visual Degradation and Object Transfer in GR00T N1.7: A Systematic
 
 Mohan Chillara · Aahan Kumbham · Aravind Chiruvelli
 
-Wakeland High School, Frisco TX · Panther Creek High School, Cary NC · Walmart Global Technology
+Wakeland High School, Frisco TX · Panther Creek High School, Frisco TX · Walmart Global Technology
 
 
 Overview
@@ -15,10 +15,7 @@ This repository contains the code and experimental pipeline for a systematic stu
 
 We fine-tuned six independent GR00T N1.7 checkpoints under five post-processing degradation conditions and evaluated each over 150 episodes (3 trials × 50 episodes). We also introduce the Object Transfer Score (OTS), a novel metric quantifying how training data visual quality conditions novel-object generalization in manipulation policies.
 
-Paper: [Link to arXiv preprint — add when posted]
-
-Venue: Targeting IEEE Robotics and Automation Letters (RA-L)
-
+Paper: [______]
 
 Key Findings
 
@@ -27,7 +24,7 @@ ConditionMean SROTSA_clean (baseline)0.590.017B_dim (brightness ×0.30)0.770.013
 
 Dimmed training data outperforms clean baseline by 30.5% — counterintuitive result, three hypotheses discussed in the paper
 30° rotation produces complete policy failure across all 150 evaluation episodes
-OTS is near-zero universally — single-object fine-tuning does not produce novel-object transfer regardless of data quality
+OTS is near-zero universally; single-object fine-tuning does not produce novel-object transfer regardless of data quality
 
 
 
