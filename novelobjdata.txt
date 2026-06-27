@@ -1,0 +1,12 @@
+=== NOVEL OBJECT RESULTS ===
+Novel Object    A_clean  B_dim  D_blur  F_diverse
+tomato_sauce    0.00     0.00   0.00    0.00
+bbq_sauce       0.00     0.00   0.00    0.00
+ketchup         0.04     0.04   0.00    0.00
+milk            0.00     0.00   0.00    0.06
+
+=== OTS SCORES ===
+A_clean:   OTS = 0.017
+B_dim:     OTS = 0.013
+D_blur:    OTS = 0.000
+F_diverse: OTS = 0.021
